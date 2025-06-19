@@ -114,5 +114,7 @@ We plan to expand the Hospital Management System with the following features:
 ---
 ## 🙋‍♂️ Author
 ***Nishar Chavan***
-- Feel free to contribute, raise issues, or fork the project.
+📫 **Reach out to collaborate or connect:**
+- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/nishar-chavan)
+- 💌 Email: chavannishar04@gmail.com 
 ---
