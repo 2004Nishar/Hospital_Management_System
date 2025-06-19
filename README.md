@@ -85,6 +85,33 @@ gunicorn==21.2.0
 ```
 - SQLite3 is part of the Python Standard Library, so you don’t need to install it separately.
 ---
+## 🚧 Upcoming Features
+
+We plan to expand the Hospital Management System with the following features:
+
+- 🧾 **Billing & Invoices**  
+  Automatically generate bills for appointments, treatments, and prescriptions.
+
+- 📅 **Advanced Appointment Scheduling**  
+  Enable patients to view available time slots and schedule/reschedule appointments in real time.
+
+- 📊 **Admin Dashboard**  
+  Add an admin panel to manage doctors, patients, appointments, and system analytics.
+
+- 💬 **Chat System**  
+  Implement a secure messaging system between patients and doctors for better communication.
+
+- 🧠 **AI-Based Symptom Checker**  
+  Integrate an AI-powered tool to help patients get basic advice before consulting a doctor.
+
+- 📁 **Upload Medical Reports**  
+  Allow doctors and patients to upload and access medical documents securely.
+
+- 🔔 **Email/SMS Notifications**  
+  Send alerts for upcoming appointments, prescription refills, and system updates.
+
+  **Stay tuned for regular updates and improvements! 😊**
+---
 ## 🙋‍♂️ Author
 ***Nishar Chavan***
 - Feel free to contribute, raise issues, or fork the project.
