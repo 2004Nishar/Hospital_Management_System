@@ -71,10 +71,10 @@ http://127.0.0.1:5000
 ---
 ## 📸 Screenshots
 ### 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](screenshots/Doctor_dashboard.png)
+![Doctor Dashboard](Screenshots/Doctor_dashboard.png)
 
 ### 🧑‍⚕️ Patient Dashboard
-![Patient Dashboard](screenshots/Patient_Dashboard.png)
+![Patient Dashboard](Screenshots/Patient_Dashboard.png)
 
 ---
 
