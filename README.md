@@ -52,7 +52,7 @@ A web-based Hospital Management System built with **Flask**, **SQLite3**, **Tail
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hospital-management-system.git
+git clone https://github.com/2004Nishar/Hospital_Management_System.git
 cd hospital-management-system
 ```
 ```bash
